@@ -15,4 +15,4 @@ Then installed the missing npm modules, from server directory:
 npm install
 ```
 
-Finally started the server 
+Finally started the server
